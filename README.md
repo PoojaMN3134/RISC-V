@@ -623,6 +623,10 @@ Now we need to analyse the waveforms of the instructions that are used in the ve
 ![pinout diagram](https://github.com/user-attachments/assets/6681748a-0273-4f3a-9ed2-4a57a045f118)
 
 
+**``` Code: Button-Controlled Buzzer using VSDSquadron FPGA (CH32V00x)  ```**
+
+
+
 </details>
 
 ------------------------------------
