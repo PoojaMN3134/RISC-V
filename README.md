@@ -611,3 +611,15 @@ Now we need to analyse the waveforms of the instructions that are used in the ve
 ![SLL_10_4](https://github.com/user-attachments/assets/3deefd03-aa00-4673-8f4a-613c9e4b365e)
 
 </details>
+
+------------------------------------
+
+<details>
+<summary><b>Task 5:</b> Buzzer Control using VSDSquadron FPGA </summary>   
+<br>
+
+**``` Buzzer Control Circuit - VSDSquadron FPGA  ```**
+
+![pinout diagram](https://github.com/user-attachments/assets/6681748a-0273-4f3a-9ed2-4a57a045f118)
+
+
