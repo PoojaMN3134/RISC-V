@@ -623,6 +623,36 @@ Now we need to analyse the waveforms of the instructions that are used in the ve
 ![pinout diagram](https://github.com/user-attachments/assets/6681748a-0273-4f3a-9ed2-4a57a045f118)
 
 
+**Simple Explanation of Circuit & Code**
+
+
+**Circuit Explanation**
+
+
+A button (PD0) is used to control a buzzer (PD2).
+When the button is pressed, the buzzer toggles between ON and OFF.
+The VSDSquadron FPGA Mini Board processes the input and controls the output.
+
+
+**Code Explanation**
+
+
+```Configure GPIO Pins:```
+
+PD0 (Button) → Input with a pull-up resistor.
+PD2 (Buzzer) → Output (Push-Pull Mode).
+
+
+```Debounce Function:```
+
+Adds a small delay to avoid false button presses.
+
+
+```Main Loop:```
+
+Checks if the button is pressed.
+Toggles the buzzer state (ON/OFF).
+
 **``` Code: Button-Controlled Buzzer using VSDSquadron FPGA (CH32V00x)  ```**
 
 
