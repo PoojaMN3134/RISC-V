@@ -666,3 +666,10 @@ Toggles the buzzer state (ON/OFF).
 <br>
 
 
+**``` Video: Button-Controlled Buzzer using VSDSquadron FPGA (CH32V00x)  ```**
+
+
+
+https://github.com/user-attachments/assets/7e151288-f947-4173-86ab-759c5d6f0eaa
+
+
