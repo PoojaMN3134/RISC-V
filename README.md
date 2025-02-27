@@ -672,4 +672,7 @@ Toggles the buzzer state (ON/OFF).
 
 https://github.com/user-attachments/assets/7e151288-f947-4173-86ab-759c5d6f0eaa
 
+</details>
+
+------------------------------------
 
